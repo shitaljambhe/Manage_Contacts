@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+body{
+    background-image: url('assets/images/landing_bg.png');
+}
+.borderDiv{
+    border: 1px solid #aab4b9;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.subTitle{
+    margin-top: 4px;
+    margin-bottom: 6px;
+   /* color:rgb(74,178,252)*/
+}
+
+.centerDivClass{
+    text-align: center;
+    margin-top:20px;
+}
+.infoTxt {
+    color: #aab4b9;
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn-info{
+    color: #fff;
+    background-color: #24629f;
+    border-color: #24629f;
+    border-radius: 22px;
+    width: 200px;
+    height: 46px;
+}
+
+.btn-info:hover {
+    background-color: #24629f;
+    border-color: #24629f;
+}
+.mTop30{
+    margin-top:30px;
+}
+
+.mBottom30{
+    margin-bottom: 30px;
+}
+
+.divCenter{
+    text-align:center;
+}
+.mTop10{
+    margin-top: 10px;
+}
+.mLeftRight10{
+    margin-left: 10px;
+    margin-right: 10px;
+}

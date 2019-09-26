@@ -1,0 +1,10 @@
+.navbar{
+    background-color:  rgb(255,255,255);
+    /*box-shadow: 10px 10px 8px #888888;*/
+}
+
+ul li:hover{
+    cursor: pointer;
+    background-color: #e6e6e6;
+}
+
